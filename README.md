@@ -15,7 +15,7 @@ for JC Model
 python Phylogenetic_Statistics.py example.fasta example.newick JC 1.000 1.000 1.000 1.000 1.000 1.000
 
 for K2P Model
-python Phylogenetic_Statistics.py example.fasta example.newick K2P 1.000 K 1.000 1.000 K 1.000. <br>
+python Phylogenetic_Statistics.py example.fasta example.newick K2P 1.000 K 1.000 1.000 K 1.000 <br>
 K value would be transition rate.
 
 
